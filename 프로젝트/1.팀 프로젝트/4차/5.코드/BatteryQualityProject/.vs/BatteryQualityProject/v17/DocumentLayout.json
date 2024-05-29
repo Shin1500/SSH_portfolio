@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KB\\Desktop\\\uCF54\uB4DC \uBC0F \uB514\uC790\uC778\uD3FC \uCEA1\uCC98\\BatteryQualityProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9F734B-8D5B-4170-9EB1-83E6DBA3079C}|BatteryQualityProject\\TeamProject.csproj|c:\\users\\kb\\desktop\\\uCF54\uB4DC \uBC0F \uB514\uC790\uC778\uD3FC \uCEA1\uCC98\\batteryqualityproject\\batteryqualityproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D9F734B-8D5B-4170-9EB1-83E6DBA3079C}|BatteryQualityProject\\TeamProject.csproj|solutionrelative:batteryqualityproject\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KB\\Desktop\\\uCF54\uB4DC \uBC0F \uB514\uC790\uC778\uD3FC \uCEA1\uCC98\\WindowsFormsApp1\\WindowsFormsApp1\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\KB\\Desktop\\\uCF54\uB4DC \uBC0F \uB514\uC790\uC778\uD3FC \uCEA1\uCC98\\WindowsFormsApp1\\WindowsFormsApp1\\Fileload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\KB\\Desktop\\\uCF54\uB4DC \uBC0F \uB514\uC790\uC778\uD3FC \uCEA1\uCC98\\BatteryQualityProject\\BatteryQualityProject\\Main.cs",
+              "RelativeDocumentMoniker": "BatteryQualityProject\\Main.cs",
+              "ToolTip": "C:\\Users\\KB\\Desktop\\\uCF54\uB4DC \uBC0F \uB514\uC790\uC778\uD3FC \uCEA1\uCC98\\BatteryQualityProject\\BatteryQualityProject\\Main.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "BatteryQualityProject\\Main.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:57:59.861Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\KB\\Desktop\\\uCF54\uB4DC \uBC0F \uB514\uC790\uC778\uD3FC \uCEA1\uCC98\\WindowsFormsApp1\\WindowsFormsApp1\\Main.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\WindowsFormsApp1\\Main.cs",
+              "ToolTip": "C:\\Users\\KB\\Desktop\\\uCF54\uB4DC \uBC0F \uB514\uC790\uC778\uD3FC \uCEA1\uCC98\\WindowsFormsApp1\\WindowsFormsApp1\\Main.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\WindowsFormsApp1\\Main.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:56:17.859Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fileload.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\KB\\Desktop\\\uCF54\uB4DC \uBC0F \uB514\uC790\uC778\uD3FC \uCEA1\uCC98\\WindowsFormsApp1\\WindowsFormsApp1\\Fileload.cs",
+              "RelativeDocumentMoniker": "..\\WindowsFormsApp1\\WindowsFormsApp1\\Fileload.cs",
+              "ToolTip": "C:\\Users\\KB\\Desktop\\\uCF54\uB4DC \uBC0F \uB514\uC790\uC778\uD3FC \uCEA1\uCC98\\WindowsFormsApp1\\WindowsFormsApp1\\Fileload.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "..\\WindowsFormsApp1\\WindowsFormsApp1\\Fileload.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T04:56:15.982Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

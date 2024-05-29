@@ -1,0 +1,126 @@
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Fileload.resources
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dataan.resources
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality.resources
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.GenerateResource.cache
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\후반\VS C#\제조데이터기반 시각화\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Fileload.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dataan.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Fileload.resources
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dataan.resources
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality.resources
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\SH\Desktop\4차 프로젝트\4_TeamProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Fileload.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dataan.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality4.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality5.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Fileload.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dataan.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality4.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality5.resources
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\SH\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality4.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality5.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Fileload.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dataan.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\프로젝트 합칠거\날짜를 DB에서 가져와서 만든것\try catch 없는것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Fileload.resources
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dataan.resources
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality.resources
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\현재 작업하고 있는 것\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality2.resources
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Fileload.resources
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dataan.resources
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality.resources
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality2.resources
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\KB\Desktop\4차_프로젝트\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Fileload.resources
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Dataan.resources
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main.resources
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Quality.resources
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Reports.resources
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.GenerateResource.cache
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\productproject\새 폴더\ProductDataProject\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
