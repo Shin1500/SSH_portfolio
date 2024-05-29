@@ -1,0 +1,77 @@
+module/left.jsp ---------------------------
+게시판으로 가는 링크
+   <table>
+     <tr><td width = "150" align="center" bgcolor="<%=bar%>">게시판</td></tr>
+     <tr><td>
+     <a href="../board/list.jsp">게시판</a></td></tr>
+     </table>
+
+board/list.jsp -------------------------------
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ page import = "store.board.BoardDBBean" %>
+<%@ page import = "store.board.BoardDataBean" %>
+<%@ page import = "java.util.List" %>
+<%@ page import = "java.text.SimpleDateFormat" %>
+<%@ include file="color.jspf"%>
+
+<%!
+    int pageSize = 10;
+    SimpleDateFormat sdf = 
+        new SimpleDateFormat("yyyy-MM-dd HH:mm");
+%>
+
+<%
+    String pageNum = request.getParameter("pageNum");
+
+    if (pageNum == null) {
+        pageNum = "1";
+    }
+
+    int currentPage = Integer.parseInt(pageNum);
+    int startRow = (currentPage - 1) * pageSize + 1;
+    int endRow = currentPage * pageSize;
+    int count = 0;
+    int number = 0;
+    List<BoardDataBean> articleList = null; 
+    
+    BoardDBBean dbPro = BoardDBBean.getInstance();
+    count = dbPro.getArticleCount();
+    
+    if (count > 0) {
+        articleList = dbPro.getArticles(startRow, pageSize);
+    }
+
+	number = count-(currentPage-1)*pageSize;
+%>
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css">
+<title>게시판</title>
+</head>
+<body bgcolor="<%=bodyback_c%>">
+<p>글목록(전체 글:<%=count%>)</p>
+<!-- 쇼핑몰로 되돌아가는 링크 -->
+<table align = "right" border = "1">
+	<tr>
+	<td bgcolor = "<%=value_c%>">
+		<a href = "../shopping/shopMain.jsp">쇼핑몰</a>
+	</td>
+	</tr>
+</table>
+
+데이터 베이스에 테이블 추가 --------------------------
+create table board(
+num int not null primary key auto_increment,
+writer varchar(10) not null,
+email varchar(30),
+subject varchar(50) not null,
+passwd varchar(12) not null,
+reg_date datetime not null,
+readcount int default 0,
+ref int not null,
+re_step smallint not null,
+re_level smallint not null,
+content text not null,
+ip varchar(20) not null
+);

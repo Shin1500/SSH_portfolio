@@ -1,0 +1,6 @@
+<%
+   String bodyback_c="#FFFFFF";
+   String bodyback_f="#FFFAF0";
+   String value_c="c0c0c0";
+   String value_d="";
+%>

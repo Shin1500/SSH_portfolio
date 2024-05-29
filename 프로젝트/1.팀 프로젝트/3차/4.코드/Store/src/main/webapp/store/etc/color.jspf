@@ -1,0 +1,14 @@
+<% 
+  String bodyback_c="#e0ffff";
+  String bodyback_d="white";
+  String bodyback_s="#E0FFFF";
+  String bodyback_f="#FFFAF0";
+  String back_c="#8fbc8f";
+  String title_c="#5f9ea0";
+  String value_c="#b0e0e6";
+  String value_d="";
+  String value_b="#CD853F";
+  String value_e="#D2B48C";
+  String value_f="#FFEFD5";
+  String bar="#778899";
+%>
