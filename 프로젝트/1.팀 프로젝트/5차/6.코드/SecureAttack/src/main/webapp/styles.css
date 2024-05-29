@@ -1,0 +1,103 @@
+div {
+	border: none;
+    padding: 5px;
+    margin: 5px;
+}
+
+.logo-container, .title-container {
+	display: flex;
+	height: 100px;
+	justify-content: center; /* 수평 가운데 정렬 */
+	align-items: center; /* 수직 가운데 정렬 */
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 4fr 6fr;
+}
+
+.left-section {
+	display: flex;
+	flex-direction: column;
+}
+
+.left-section-inner1 {
+	display: grid;
+	grid-template-columns: 2fr 8fr;
+}
+
+.left-section-inner2 {
+	display: flex;
+	flex-direction: column;
+}
+
+.left-section-inner3 {
+	display: flex;
+	flex-direction: column;
+}
+
+.right-section {
+	display: flex;
+	flex-direction: column;
+}
+
+.right-section-inner1 {
+	display: flex;
+	flex-direction: column;
+}
+
+.right-section-inner2 {
+	display: flex;
+	flex-direction: column;
+}
+
+.table-container {
+    max-height: 550px;
+    overflow-y: auto;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.button-container {
+    display: flex;
+}
+
+/* 버튼 스타일 */
+.button-container a {
+    text-decoration: none; /* 링크에 밑줄 제거 */
+    display: inline-block; /* 인라인 블록 요소 */
+}
+
+.button-container button {
+    background-color: #4CAF50; /* 버튼 배경색 */
+    border: none; /* 테두리 없음 */
+    color: white; /* 글자색 */
+    padding: 15px 32px; /* 패딩 설정 */
+    text-align: center; /* 텍스트 가운데 정렬 */
+    text-decoration: none; /* 밑줄 없음 */
+    display: inline-block; /* 인라인 블록 요소 */
+    font-size: 16px; /* 글자 크기 */
+    margin: 4px 2px; /* 마진 설정 */
+    cursor: pointer; /* 커서 포인터로 변경 */
+    border-radius: 10px; /* 버튼 모서리 둥글게 */
+    transition-duration: 0.4s; /* 트랜지션 지속시간 */
+}
+
+/* 버튼 호버 스타일 */
+.button-container button:hover {
+    background-color: #45a049; /* 호버 시 배경색 변경 */
+    color: white; /* 호버 시 글자색 변경 */
+}
